@@ -12,4 +12,6 @@ while( x<=n )
 	}
 	x++;
 }//end of main
+	printf("%d" &n);
+}
 
