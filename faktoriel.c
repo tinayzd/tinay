@@ -11,5 +11,5 @@ while( x<=n )
 	printf("%d", y);
 	}
 	x++;
-}
-}
+}//end of main
+
